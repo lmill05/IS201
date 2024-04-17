@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(239, 222, 204);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.common {
+    background-color: rgb(239, 222, 204);
+    border: 2px solid #f14444
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftpanel {
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.rightpanel {
+    top: 114px;
+    right: 5px;
+    left: 5px;
+    height: 100px;
+}
+
+
+
